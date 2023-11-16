@@ -1,6 +1,6 @@
 
 <h3 align="center">A passionate frontend developer from Japan</h3>
-<h3 align="center">Highly skilled full stack software engineer with expertise in building python and AI applications. Proficient in python apps using machine learning using  OCR, OpenCV, TensorFlow, Keras and PyTorch. 
+<h3 align="left">Highly skilled full stack software engineer with expertise in building python and AI applications. Proficient in python apps using machine learning using  OCR, OpenCV, TensorFlow, Keras and PyTorch. 
 Experienced in web and mobile application development utilizing Node.js, MongoDB, Python, Django, Java, Spring Boot and React.js, Vue.js.
 Experienced in web applications using C#, .Net framework. 
 Experienced in chatbot development utilizing Open AI and rasa framework.
