@@ -1,7 +1,11 @@
 
-preview
 <h3 align="center">A passionate frontend developer from Japan</h3>
-
+<h3 align="center">Highly skilled full stack software engineer with expertise in building python and AI applications. Proficient in python apps using machine learning using  OCR, OpenCV, TensorFlow, Keras and PyTorch. 
+Experienced in web and mobile application development utilizing Node.js, MongoDB, Python, Django, Java, Spring Boot and React.js, Vue.js.
+Experienced in web applications using C#, .Net framework. 
+Experienced in chatbot development utilizing Open AI and rasa framework.
+Experienced in web scraping and AI image generation using stable diffusion.
+Strong problem-solving abilities and a passion for creating efficient and user-friendly solutions.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenji&label=Profile%20views&color=0e75b6&style=flat" alt="kenji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kenji" alt="kenji" /></a> </p>
