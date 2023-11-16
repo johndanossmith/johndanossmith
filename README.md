@@ -1,17 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-17905
-Fork on GitHub
-5261
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h3 align="center">A passionate frontend developer from Japan</h3>
